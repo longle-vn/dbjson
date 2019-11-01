@@ -1,0 +1,25 @@
+{
+  "info": [
+    {
+      "fistName": "Mark",
+      "lastName": "Otto",
+      "gender": "Male",
+      "telephone": "0967858778",
+      "email": "traiphonui@gmail.com",
+      "youAreIn": "America",
+      "hobbies": "Swimming",
+      "description": "typicode"
+    },
+    {
+      "fistName": "trung",
+      "lastName": "kien",
+      "gender": "Male",
+      "telephone": "0123456789",
+      "email": "haidang272014@gmail.com",
+      "youAreIn": "europe",
+      "hobbies": "Swimming",
+      "description": "kkkk",
+      "id": "cK6ewi_"
+    }
+  ]
+}
